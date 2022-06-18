@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+
+
+.abcd{
+    height: 100px;
+    width: 100px;
+background-color: chartreuse;
+position: absolute;
+left: 0px;
+display: inline-block;
+}
+.mnop{
+    height: 100px;
+    width: 100px;
+background-color: blue;
+position: absolute;
+left: 100px;
+display: inline-block;
+top: 100px;
+}
+
+.pqrs{
+    height: 100px;
+    width: 100px;
+background-color:red;
+position: absolute;
+left: 200px;
+display: inline-block;
+top: 200px;
+}

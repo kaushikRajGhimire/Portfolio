@@ -1,0 +1,169 @@
+body{
+   color:#40514e;
+     margin: 0;
+    font-size: 2em;
+    text-align: center;
+}
+.top-container{
+    padding-top: 30px;
+    background-color: #E4F9F5;
+    text-align: center;
+   
+    position: relative;
+    font-family: 'Sacramento',Arial, Helvetica, sans-serif;
+    margin-top: 0;
+}
+.h1{
+    font-size: 6rem;
+    margin: 70px auto 0 auto;
+    color: #66BFBF;
+    line-height: 0.8;
+}
+
+.h4{
+    
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+hr{
+    border: dotted grey;
+    border-bottom: 0;
+    width: 8%;
+    margin:80px auto;
+}
+.top-cloud{
+    position:absolute;
+    right: 200px;
+top: 30px;
+}
+.h2{
+    color: #11999E;
+    font-family: Arial;
+}
+.pone{
+    font-size: 1.3rem;
+    padding-bottom: 5px;
+    width:30%;
+    margin:auto;
+}
+
+
+.bottom-cloud{
+    position:absolute;
+left: 200px;
+bottom:320px;
+}
+.h3{
+    color: #11999E;
+    font-size: 2rem;
+    font-family: Arial;
+    padding:50px;
+    margin:0 auto 0 auto;
+}
+.footer-link{
+    color: #11999E;
+    margin:0 auto 0 auto;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 0 auto;
+    text-align: left;
+    line-height: 1.6;
+    display: flex;
+align-items: center;
+}
+.middle-container{
+   margin:100px 0;
+}
+.profile{
+    margin:0 auto 0 auto;
+
+}
+.ptwo{
+  line-height: 2;
+margin:0 auto 0 auto;
+font-size: 20px;
+}
+
+.skills{
+    
+}
+.bottom-container{
+    font-size: 1.5rem;
+    background-color: #66bfbf;
+    PADDING:50PX 0 30PX 0;
+}
+.apple{
+    height: 20%;
+    width: 20%;
+}
+.webdevelopment1{
+    
+    width:200px;
+    margin-right: 50px;
+    float: left;
+}
+.webdevelopment2{
+    
+    width:200px;
+    margin-right: 50px;
+    float: right;
+}
+.dsa{
+    
+    width:25%;
+    float:right;
+    margin-left: 50px;
+    float:right;
+}
+.pfour{
+
+    font-size: 1.3rem;
+    padding-bottom: 5px;
+    width:30%;
+    margin:40px auto 60px;
+    line-height: 2;
+    font-family: Arial;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .pfive{
+      font-size: 0.75rem;
+      color: #eaf6f6;
+      padding:20px 0;
+    }
+a{
+    color:#11999E;
+    margin:10px 20px 10px 10px;
+text-decoration: none;
+}
+a:hover{
+    color:#eaf6f6;
+}
+/* frontend practice:https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3 */

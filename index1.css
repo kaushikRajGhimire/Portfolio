@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.kaushik{
+    background-color: #F6E3C5;
+    width: 200px;
+    height: 200px;
+/* border:solid 10px 10px 10px 10px;*/
+    border: 10px solid black;
+    position:relative;
+    left:500px;
+    
+}
+.raj{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    /*margin-left: 220px;*/
+    border:20px solid red;
+}
+.ghimire{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+   /* margin-left: 460px;*/
+    border:10px solid blue;
+    position: relative;
+    right: 500px;
+
+}
